@@ -1,5 +1,5 @@
-<img width="920" height="593" alt="image" src="https://github.com/user-attachments/assets/26ba16f7-0079-4f86-88b5-334952c9be15" /># cos-co2-coabsorption-model
-# MATLAB User Guide for Multicomponent Gas Competitive Co-absorption Models
+MATLAB User Guide for Multicomponent Gas Competitive Co-absorption Models
+Thermodynamic modeling of competitive COS/CO2 and CS2-containing gas co-absorption in amine solvents.
 
 **Applicable programs:**
 
